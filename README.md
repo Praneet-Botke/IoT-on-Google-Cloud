@@ -1,7 +1,7 @@
 # IoT-on-Google-Cloud
 Computer Networks' research Study on Iot on Google Cloud
 
-Abstract:-
+Abstract:
 The prevalence of Internet of Things
 (IoT) is growing rapidly with increasing
 influence on our daily life. IoT has
